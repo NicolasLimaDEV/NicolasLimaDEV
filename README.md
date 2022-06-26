@@ -1,3 +1,5 @@
+![capa-linkedin0000](https://user-images.githubusercontent.com/91435296/175819332-af0f15df-30e7-4148-9dc7-891d430144be.jpg)
+
 ## Olá! Eu sou o Nicolas Lima 🖐️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolaslimadev)
