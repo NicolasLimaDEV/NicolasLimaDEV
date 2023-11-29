@@ -1,13 +1,11 @@
-<div align="center">
+<div>
   
-## Olá! Eu sou o Nicolas Lima 🖐️ <!-- Criar uma imagem -->
+## Olá! 🖐️👨🏻‍💻
   
-  Meu site: https://nicolaslimadev.vercel.app/
+Meu site: https://nicolaslimadev.vercel.app/
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolaslimadev)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC5_OejoYarsFy2tGA52_etg)
-
-![NicolasLimaDEV GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasLimaDEV&theme=blue-green)
 
 ## Tech Stacks
 
