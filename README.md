@@ -1,8 +1,13 @@
 <div>
   
-## Olá! 🖐️👨🏻‍💻
+## Olá! 🖐️
   
 Meu site: https://nicolaslimadev.vercel.app/
+
+<ul>
+  <li>👨🏻‍💻 Frontend Developer</li>
+  <li>🎓 ADS - FIT Faculdade Impacta</li>
+</ul>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolaslimadev)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC5_OejoYarsFy2tGA52_etg)
